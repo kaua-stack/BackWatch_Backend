@@ -1,0 +1,24 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ApiReliabilitySuite.API</RootNamespace>
+    <UserSecretsId>9a139e55-19ac-4b98-9c60-e32feaef27c8</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <!-- Referências aos outros projetos da solution -->
+    <ProjectReference Include="..\ApiReliabilitySuite.Application\ApiReliabilitySuite.Application.csproj" />
+    <ProjectReference Include="..\ApiReliabilitySuite.Infrastructure\ApiReliabilitySuite.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Swagger/OpenAPI para documentação automática da API -->
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="6.6.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk.Worker">
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>ApiReliabilitySuite.Workers</RootNamespace>
+    <UserSecretsId>workers-secrets</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ApiReliabilitySuite.Application\ApiReliabilitySuite.Application.csproj" />
+    <ProjectReference Include="..\ApiReliabilitySuite.Infrastructure\ApiReliabilitySuite.Infrastructure.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <!-- Worker Service: suporte a BackgroundService no .NET -->
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.0" />
+    <!-- EF Core para as migrations automáticas -->
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="9.0.0">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+  </ItemGroup>
+</Project>

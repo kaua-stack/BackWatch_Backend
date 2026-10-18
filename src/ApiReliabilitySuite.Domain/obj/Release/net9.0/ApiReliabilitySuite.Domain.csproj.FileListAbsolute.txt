@@ -1,0 +1,11 @@
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\bin\Release\net9.0\ApiReliabilitySuite.Domain.deps.json
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\bin\Release\net9.0\ApiReliabilitySuite.Domain.dll
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\bin\Release\net9.0\ApiReliabilitySuite.Domain.pdb
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\ApiReliabilitySuite.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\ApiReliabilitySuite.Domain.AssemblyInfoInputs.cache
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\ApiReliabilitySuite.Domain.AssemblyInfo.cs
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\ApiReliabilitySuite.Domain.csproj.CoreCompileInputs.cache
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\ApiReliabilitySuite.Domain.dll
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\refint\ApiReliabilitySuite.Domain.dll
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\ApiReliabilitySuite.Domain.pdb
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Domain\obj\Release\net9.0\ref\ApiReliabilitySuite.Domain.dll

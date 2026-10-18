@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "77ZMZUePACSkRbkBSg1+6CxqrRh23VksEX3UDSCJlX8=",
+  "Source": "ApiReliabilitySuite.API",
+  "BasePath": "_content/ApiReliabilitySuite.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

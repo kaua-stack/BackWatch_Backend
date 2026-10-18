@@ -1,0 +1,15 @@
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\bin\Release\net9.0\ApiReliabilitySuite.Application.deps.json
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\bin\Release\net9.0\ApiReliabilitySuite.Application.dll
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\bin\Release\net9.0\ApiReliabilitySuite.Application.pdb
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\bin\Release\net9.0\ApiReliabilitySuite.Domain.dll
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\bin\Release\net9.0\ApiReliabilitySuite.Domain.pdb
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiReliabilitySuite.Application.csproj.AssemblyReference.cache
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiReliabilitySuite.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiReliabilitySuite.Application.AssemblyInfoInputs.cache
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiReliabilitySuite.Application.AssemblyInfo.cs
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiReliabilitySuite.Application.csproj.CoreCompileInputs.cache
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiRelia.B890CAC7.Up2Date
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiReliabilitySuite.Application.dll
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\refint\ApiReliabilitySuite.Application.dll
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ApiReliabilitySuite.Application.pdb
+C:\Users\kalve\OneDrive\Área de Trabalho\AllinOne_back\backend\src\ApiReliabilitySuite.Application\obj\Release\net9.0\ref\ApiReliabilitySuite.Application.dll
